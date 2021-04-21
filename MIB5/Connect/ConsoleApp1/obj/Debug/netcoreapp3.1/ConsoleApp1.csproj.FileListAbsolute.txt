@@ -1,0 +1,13 @@
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Óbudai Egyetem\Kutatás\Kozosproj\MIB5\Connect\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
